@@ -1,0 +1,2 @@
+C:\Users\Lenova\source\repos\codeFirstStok\Entity_Layer\obj\Debug\Entity_Layer.csproj.AssemblyReference.cache
+C:\Users\Lenova\source\repos\codeFirstStok\Entity_Layer\obj\Debug\Entity_Layer.csproj.CoreCompileInputs.cache

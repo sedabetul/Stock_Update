@@ -1,0 +1,14 @@
+C:\Users\Lenova\source\repos\codeFirstStok\DTOlayer\bin\Debug\DTOlayer.dll
+C:\Users\Lenova\source\repos\codeFirstStok\DTOlayer\bin\Debug\DTOlayer.pdb
+C:\Users\Lenova\source\repos\codeFirstStok\DTOlayer\bin\Debug\DataAccess1.dll
+C:\Users\Lenova\source\repos\codeFirstStok\DTOlayer\bin\Debug\Entity1Layer.dll
+C:\Users\Lenova\source\repos\codeFirstStok\DTOlayer\bin\Debug\EntityFramework.dll
+C:\Users\Lenova\source\repos\codeFirstStok\DTOlayer\bin\Debug\DataAccess1.pdb
+C:\Users\Lenova\source\repos\codeFirstStok\DTOlayer\bin\Debug\DataAccess1.dll.config
+C:\Users\Lenova\source\repos\codeFirstStok\DTOlayer\bin\Debug\Entity1Layer.pdb
+C:\Users\Lenova\source\repos\codeFirstStok\DTOlayer\bin\Debug\EntityFramework.xml
+C:\Users\Lenova\source\repos\codeFirstStok\DTOlayer\obj\Debug\DTOlayer.csproj.AssemblyReference.cache
+C:\Users\Lenova\source\repos\codeFirstStok\DTOlayer\obj\Debug\DTOlayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenova\source\repos\codeFirstStok\DTOlayer\obj\Debug\DTOlayer.csproj.CopyComplete
+C:\Users\Lenova\source\repos\codeFirstStok\DTOlayer\obj\Debug\DTOlayer.dll
+C:\Users\Lenova\source\repos\codeFirstStok\DTOlayer\obj\Debug\DTOlayer.pdb

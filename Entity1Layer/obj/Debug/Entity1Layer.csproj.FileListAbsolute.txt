@@ -1,0 +1,6 @@
+C:\Users\Lenova\source\repos\codeFirstStok\Entity1Layer\bin\Debug\Entity1Layer.dll
+C:\Users\Lenova\source\repos\codeFirstStok\Entity1Layer\bin\Debug\Entity1Layer.pdb
+C:\Users\Lenova\source\repos\codeFirstStok\Entity1Layer\obj\Debug\Entity1Layer.csproj.AssemblyReference.cache
+C:\Users\Lenova\source\repos\codeFirstStok\Entity1Layer\obj\Debug\Entity1Layer.csproj.CoreCompileInputs.cache
+C:\Users\Lenova\source\repos\codeFirstStok\Entity1Layer\obj\Debug\Entity1Layer.dll
+C:\Users\Lenova\source\repos\codeFirstStok\Entity1Layer\obj\Debug\Entity1Layer.pdb

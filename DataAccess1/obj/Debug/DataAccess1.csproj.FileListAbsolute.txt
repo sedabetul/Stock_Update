@@ -1,0 +1,16 @@
+C:\Users\Lenova\source\repos\codeFirstStok\DataAccess1\bin\Debug\DataAccess1.dll.config
+C:\Users\Lenova\source\repos\codeFirstStok\DataAccess1\bin\Debug\DataAccess1.dll
+C:\Users\Lenova\source\repos\codeFirstStok\DataAccess1\bin\Debug\DataAccess1.pdb
+C:\Users\Lenova\source\repos\codeFirstStok\DataAccess1\bin\Debug\Entity1Layer.dll
+C:\Users\Lenova\source\repos\codeFirstStok\DataAccess1\bin\Debug\EntityFramework.dll
+C:\Users\Lenova\source\repos\codeFirstStok\DataAccess1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenova\source\repos\codeFirstStok\DataAccess1\bin\Debug\Entity1Layer.pdb
+C:\Users\Lenova\source\repos\codeFirstStok\DataAccess1\bin\Debug\EntityFramework.xml
+C:\Users\Lenova\source\repos\codeFirstStok\DataAccess1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenova\source\repos\codeFirstStok\DataAccess1\obj\Debug\DataAccess1.csproj.AssemblyReference.cache
+C:\Users\Lenova\source\repos\codeFirstStok\DataAccess1\obj\Debug\DataAccess1.csproj.CoreCompileInputs.cache
+C:\Users\Lenova\source\repos\codeFirstStok\DataAccess1\obj\Debug\DataAccess1.csproj.CopyComplete
+C:\Users\Lenova\source\repos\codeFirstStok\DataAccess1\obj\Debug\DataAccess1.dll
+C:\Users\Lenova\source\repos\codeFirstStok\DataAccess1\obj\Debug\DataAccess1.pdb
+C:\Users\Lenova\source\repos\codeFirstStok\DataAccess1\obj\Debug\DataAccess1.Migrations.InitialCreate.resources
+C:\Users\Lenova\source\repos\codeFirstStok\DataAccess1\obj\Debug\DataAccess1.csproj.GenerateResource.cache
